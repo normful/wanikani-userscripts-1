@@ -20,7 +20,7 @@
 //
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/3c6ea0466951a1e58b75b2cb7a945ed7716082f7/utility/wk_interaction.js
 //
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c01e4fd0bc4477c8f3c295ed2b0756837b056e8b/wanikani-dmak/wk_dmak.html.js
+// @require     https://raw.githubusercontent.com/normful/wanikani-userscripts-1/6b79c9bab3dd7b7de4f33d6e155c402f8f66129c/wanikani-dmak/wk_dmak.html.js
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c01e4fd0bc4477c8f3c295ed2b0756837b056e8b/wanikani-dmak/wk_dmak.modal.js
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c478f91c1fc7536cfdb3dcc535a224550c6fcf63/wanikani-dmak/wk_dmak.main.js
 //
