@@ -13,7 +13,7 @@ const DMAK_OPTIONS = {
     autoplay: true,
     height: 120,
     width: 120,
-    step: 0.015,
+    step: 0.0025,
 
     uri: SVG_REPO_URI.KanjiVG.uri,
     // uriEncHex: SVG_REPO_URI.KanjiVG.uriEncHex,
